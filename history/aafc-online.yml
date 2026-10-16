@@ -1,7 +1,7 @@
 url: https://agriculture.canada.ca/en/programs?random=$RANDOM
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-10-16T09:24:59.662Z
+status: up
+code: 200
+responseTime: 6491
+lastUpdated: 2026-10-16T14:04:45.992Z
 startTime: 2025-11-04T01:40:15.315Z
 generator: Upptime <https://github.com/upptime/upptime>
